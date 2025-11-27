@@ -1,0 +1,8 @@
+Requirements
+    •Python 3.9–3.13
+    •pandas
+    •numpy
+    •scikit-learn
+
+Install:
+> pip install pandas numpy scikit-learn
